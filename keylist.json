@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "signature_uri": "https://github.com/marlonstiven89/prueba/blob/main/keylist.json.asc",
+    "comment": "This is an example of a keylist file"
+  },
+  "keys": [
+    {
+      "fingerprint": "927F419D7EC82C2F149C1BD1403C2657CD994F73",
+      "name": "Micah Lee",
+      "email": "micah.lee@theintercept.com",
+      "comment": "Each key can have a comment"
+    },
+    {
+      "fingerprint": "1326CB162C6921BF085F8459F3C78280DDBF52A1",
+      "name": "R. Miles McCain",
+      "email": "0@rmrm.io"
+    },
+    {
+      "fingerprint": "E0BE0804CF04A65C1FC64CC4CAD802E066046C02",
+      "name": "Nat Welch",
+      "email": "nat.welch@firstlook.org"
+    }
+  ]
+}
